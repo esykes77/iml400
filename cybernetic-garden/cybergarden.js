@@ -5,15 +5,58 @@ $(document).ready(function(){
 
 
   $(".baby").click(function(){
-    alert("I like to think and the sooner the better of a cybernetic meadow where mammals and computers live together in mutually programming harmony like pure water touching pure sky");
+    alert("A photo of me at three years old at a dance recital. The camera let me immortalize this moment.");
   });
 
   $(".venus").click(function(){
-    alert("I like to think, right now please, of a cybernetic forest filled with pines and electronics where deer stroll peacefully past computers as if they were flowers with spinning blossoms.");
+    alert("A milestone project for me that I created when applying to USC. This image shows Venus undressing, flipping the male gaze to reveal her accomplishments and showing she's more than a sex symbol.");
   });
 
   $(".deer").click(function(){
-    alert("I like to think, it has to be, of a cybernetic ecology where we are free of our labors and joined back to nature, returned to our mammal brothers and sisters, and all watched over by machines of loving grace. -Richard Brautigan");
+    alert("A picture I drew to decorate our college dorm wall.");
   });
+
+  $(".cake").click(function(){
+    alert("My 20th Birthday! The camera helped me make this moment tangible and make my life eternal.");
+  });
+
+  $(".bowl").click(function(){
+    alert("A picture I drew to decorate our college dorm wall.");
+  });
+
+
+
+  $(document).ready(function () {
+      $(function () {
+          $("#fig").draggable();
+      });
+  });
+
+  $(document).ready(function () {
+      $(function () {
+          $("#pineapple").draggable();
+      });
+  });
+
+  $(document).ready(function () {
+      $(function () {
+          $("#cant").draggable();
+      });
+  });
+
+  $(document).ready(function () {
+      $(function () {
+          $("#pom").draggable();
+      });
+  });
+
+  $(document).ready(function () {
+      $(function () {
+          $("#message").draggable();
+      });
+  });
+
+
+
 
   });

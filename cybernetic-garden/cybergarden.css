@@ -40,22 +40,51 @@ body{
 }
 
 
-.over-img6{
+#cant{
   position: absolute;
   top: 165%;
   left: 40%;
+  width: 30%;
 
 }
 
 
-.over-img7{
+#fig{
   position: absolute;
   top:30%;
   left: 30%;
+  width: 30%;
 }
 
-.over-img8{
+#pineapple{
   position: absolute;
-  top:190%;
+  top:140%;
+  left: 65%;
+}
+
+#pom{
+  position: absolute;
+  top:60%;
+  left:70%;
+  width: 70%;
+}
+
+#message{
+  position: absolute;
+  top: -7%;
+  left:50%;
+
+}
+
+.rainbow{
+  position: absolute;
+  top: 215%;
   left: 60%;
+
+}
+
+.dragon{
+  position: absolute;
+  top: 220%;
+  left: 2%;
 }
