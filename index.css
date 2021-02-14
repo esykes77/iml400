@@ -1,0 +1,87 @@
+body{
+  background-color: black;
+}
+
+h1{
+  color: #fad2e5;
+}
+
+h2{
+  color: #fad2e5;
+}
+
+p{
+  color: #fad2e5;
+}
+
+a {
+  color: hotpink;
+}
+
+.over-img3{
+  position: absolute;
+  top: 15%;
+  left: 72%;
+  width: 40%;
+}
+
+.over-img{
+  position: absolute;
+  top:25%;
+  left: 2%;
+  width: 25%;
+}
+
+.over-img2{
+  position: absolute;
+  top: 20%;
+  left:25%;
+  width: 50%;
+}
+
+.rocket{
+  position: absolute;
+  top:80%;
+  left:2%;
+}
+
+.pop{
+  position: absolute;
+  top:120%;
+  left:2%;
+}
+
+.flagella{
+  position: absolute;
+  top: 68%;
+  left: 65%;
+  width: 40%;
+}
+
+.low{
+  position: absolute;
+  top: 112%;
+  left: 65%;
+  width: 40%;
+}
+
+.butter{
+  position: absolute;
+  top: 155%;
+  left: 65%;
+  width: 40%;
+}
+
+.mom{
+  position: absolute;
+  top: 155%;
+  left: 33%;
+  width: 40%;
+}
+
+.pinka{
+  position: absolute;
+  top: 155%;
+  left: 2%;
+  width: 40%;
+}
