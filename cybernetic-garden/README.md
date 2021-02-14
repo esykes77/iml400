@@ -8,4 +8,4 @@ After reading “All watched Over By Machines of loving Grace,” by Richard Bra
 ![2](https://user-images.githubusercontent.com/60246847/107713227-9ddbb480-6c7f-11eb-82b4-4eb8f31de226.jpg)
 ![3](https://user-images.githubusercontent.com/60246847/107713303-c8c60880-6c7f-11eb-9ad3-c9d5dfa123f1.jpg)
 ![4](https://user-images.githubusercontent.com/60246847/107713311-cf548000-6c7f-11eb-8974-f104630c7b88.jpg)
->>>>>>> 4362667d320ab02536578a538c6922b1d99e3ccc
+<<<<<<< HEAD
