@@ -85,3 +85,12 @@ a {
   left: 2%;
   width: 40%;
 }
+
+.grid-container{
+  position: absolute;
+  top: 200%;
+  left: 2%;
+  width:1000px;
+  height: 700px;
+
+}
