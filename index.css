@@ -86,11 +86,46 @@ a {
   width: 40%;
 }
 
-.grid-container{
+.grid-item{
   position: absolute;
-  top: 200%;
+  top: 210%;
+  left: 2%;
+  width:400px;
+  height:400px;
+
+}
+
+.grid-item2{
+  position: absolute;
+  top: 210%;
+  left: 30%;
+  width:1000px;
+  height:700px;
+
+}
+
+.grid-item3{
+  position: absolute;
+  top: 210%;
+  left: 60%;
+  width:1000px;
+  height:700px;
+}
+
+.grid-item4{
+  position: absolute;
+  top: 210%;
+  left: 90%;
+  width:1000px;
+  height:700px;
+
+}
+
+.grid-item5{
+  position: absolute;
+  top: 240%;
   left: 2%;
   width:1000px;
-  height: 700px;
+  height:700px;
 
 }
