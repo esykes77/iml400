@@ -4,10 +4,21 @@ body{
 
 h1{
   color: #fad2e5;
+
 }
 
 h2{
   color: #fad2e5;
+}
+
+h4{
+  color: #fad2e5;
+  position: absolute;
+  top:280%;
+  font-size: 40pt;
+  left: 35%;
+
+
 }
 
 p{
@@ -74,7 +85,7 @@ a {
 
 .mom{
   position: absolute;
-  top: 155%;
+  top: 158%;
   left: 33%;
   width: 40%;
 }
@@ -127,5 +138,81 @@ a {
   left: 2%;
   width:1000px;
   height:700px;
+  font-family: 'Nunito', sans-serif;
+  font-size: 12pt;
 
+}
+
+
+.grid-itemx{
+    position: absolute;
+    top: 240%;
+    left: 30%;
+    width:1000px;
+    height:700px;
+}
+
+.grid-itemy{
+  top: 240%;
+  left: 60%;
+  width:1000px;
+  height:700px;
+    position: absolute;
+}
+
+.grid-itemz{
+  top: 240%;
+  left: 90%;
+  width:1000px;
+  height:700px;
+    position: absolute;
+}
+
+
+.reading1{
+  position: absolute;
+  top:300%;
+  font-family: 'Nunito', sans-serif;
+  font-size: 12pt;
+  text-indent: 50px;
+}
+
+.reading2{
+  position: absolute;
+  top:350%;
+  font-family: 'Nunito', sans-serif;
+  font-size: 12pt;
+  text-indent: 50px;
+}
+
+.reading3{
+  position: absolute;
+  top:390%;
+  font-family: 'Nunito', sans-serif;
+  font-size: 12pt;
+  text-indent: 50px;
+}
+
+.reading4{
+  position: absolute;
+  top:435%;
+  font-family: 'Nunito', sans-serif;
+  font-size: 12pt;
+  text-indent: 50px;
+}
+
+.reading5{
+  position: absolute;
+  top:460%;
+  font-family: 'Nunito', sans-serif;
+  font-size: 12pt;
+  text-indent: 50px;
+}
+
+.reading7{
+  position: absolute;
+  top:490%;
+  font-family: 'Nunito', sans-serif;
+  font-size: 12pt;
+  text-indent: 50px;
 }
